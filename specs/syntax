@@ -1,0 +1,4 @@
+My Draw Word (mdw) -- A powerful and easily using programming language for drawing.
+
+prog := diag_stat prog | none
+diag_stat := 
